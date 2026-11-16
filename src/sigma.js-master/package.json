@@ -12,7 +12,7 @@
   "main": "build/sigma.require.js",
   "devDependencies": {
     "grunt-cli": "^0.1.13",
-    "grunt": "~0.4.4",
+    "grunt": "~1.6.3",
     "grunt-contrib-qunit": "~0.4.0",
     "grunt-contrib-uglify": "~0.4.0",
     "grunt-closure-linter": "~0.1.4",
